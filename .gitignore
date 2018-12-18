@@ -1,0 +1,6 @@
+.snakemake/
+bcalm.dory.k21.inputlist.txt
+bcalm_to_gxt.log
+dory/
+dory_k21_r1/
+dory_k21_r1_search_oh0/
