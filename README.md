@@ -1,7 +1,9 @@
 # spacegraphcats-dory-example
 
-This is an example spacegraphcats project using some sequences from
-a Doryteuthis RNAseq assembly to demonstrate the basic workflow.
+This is an example
+[spacegraphcats](https://github.com/spacegraphcats/spacegraphcats/)
+project using some sequences from a Doryteuthis RNAseq assembly to
+demonstrate the basic workflow.
 
 ## Quickstart
 
