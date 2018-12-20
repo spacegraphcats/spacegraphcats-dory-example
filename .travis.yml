@@ -1,0 +1,15 @@
+sudo: required
+dist: trusty
+language: python
+python:
+  - "3.6"
+install:
+  - "pip install -U pip setuptools"
+  - "pip install -U Cython"
+  - "pip install -r requirements.txt"
+  - "pip install https://github.com/dib-lab/pybbhash/archive/spacegraphcats.zip"
+  - "pip install https://github.com/dib-lab/khmer/archive/master.zip"
+  - "pip install git+https://github.com/dib-lab/sourmash@master#egg=sourmash"
+  - "pip install https://github.com/spacegraphcats/spacegraphcats/archive/installable.zip"
+script:
+  - spacegraphcats config.yaml extract_reads
