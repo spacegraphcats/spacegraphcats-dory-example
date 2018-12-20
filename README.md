@@ -1,5 +1,7 @@
 # spacegraphcats-dory-example
 
+[![Build Status](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example.svg?branch=master)](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example)
+
 This is an example
 [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats/)
 project using some sequences from a Doryteuthis RNAseq assembly to
