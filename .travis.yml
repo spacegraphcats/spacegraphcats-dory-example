@@ -11,6 +11,6 @@ install:
   - "pip install git+https://github.com/dib-lab/sourmash@master#egg=sourmash"
   - "pip install https://github.com/spacegraphcats/spacegraphcats/archive/installable.zip"
   - "curl -L https://github.com/GATB/bcalm/releases/download/v2.2.0/bcalm-binaries-v2.2.0-Linux.tar.gz | tar -xzf -"
-  - "export PATH=$PATH:$PWD/bcalm-binaries-v2.2.0-Linux/bin/
+  - "export PATH=$PATH:$PWD/bcalm-binaries-v2.2.0-Linux/bin/"
 script:
   - spacegraphcats config.yaml extract_reads
