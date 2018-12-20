@@ -5,9 +5,10 @@ a Doryteuthis RNAseq assembly to demonstrate the basic workflow.
 
 ## Quickstart
 
-You'll need Python 3.5 or greater; we suggest working in a conda environment.
-You can set this up in conda `conda create -n space python==3.6` and then
-`conda activate space`.
+You'll need Python 3.5 or greater. We suggest working in a
+[conda](https://conda.io/docs/) environment; you can set this up in
+conda like so: `conda create -n space python==3.6` followed by `conda activate
+space`.
 
 ```
 pip install Cython
