@@ -5,7 +5,16 @@ a Doryteuthis RNAseq assembly to demonstrate the basic workflow.
 
 ## Quickstart
 
+You'll need Python 3.5 or greater; we suggest working in a conda environment.
+You can set this up in conda `conda create -n space python==3.6` and then
+`conda activate space`.
+
 ```
+pip install Cython
+pip install https://github.com/dib-lab/pybbhash/archive/spacegraphcats.zip
+pip install https://github.com/dib-lab/khmer/archive/master.zip
+pip install git+https://github.com/dib-lab/sourmash@master#egg=sourmash
+
 pip install spacegraphcats
 
 spacegraphcats config.yaml extract_reads
