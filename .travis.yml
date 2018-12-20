@@ -16,3 +16,10 @@ install:
   - "bcalm"
 script:
   - spacegraphcats config.yaml extract_reads
+
+addons:
+  apt:
+      sources:
+         - ubuntu-toolchain-r-test
+      packages:
+         - libstdc++-4.9-dev
