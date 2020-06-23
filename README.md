@@ -20,6 +20,8 @@ conda activate space
 
 Then execute:
 ```
+conda install -y snakemake bcalm
+
 pip install Cython
 pip install https://github.com/dib-lab/pybbhash/archive/spacegraphcats.zip
 pip install https://github.com/dib-lab/khmer/archive/master.zip
