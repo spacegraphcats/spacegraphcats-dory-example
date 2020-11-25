@@ -6,6 +6,4 @@ ksize: 21
 radius: 1
 search:
 - query/dory-head.fa
-searchquick:
-- query/dory-head.fa
-
+paired_reads: false

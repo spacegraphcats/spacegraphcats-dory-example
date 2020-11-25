@@ -33,7 +33,7 @@ pip install spacegraphcats
 and now you can run the spacegraphcats workflow specified in `config.yaml`:
 
 ```
-spacegraphcats config.yaml extract_reads
+spacegraphcats run config.yaml extract_reads
 ```
 
 ## A brief manifest of the input files
