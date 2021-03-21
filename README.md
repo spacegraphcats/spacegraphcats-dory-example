@@ -1,6 +1,6 @@
 # spacegraphcats-dory-example
 
-[![Build Status](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example.svg?branch=master)](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example)
+<!-- [![Build Status](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example.svg?branch=master)](https://travis-ci.org/spacegraphcats/spacegraphcats-dory-example) -->
 
 This is an example
 [spacegraphcats](https://github.com/spacegraphcats/spacegraphcats/)
@@ -9,7 +9,7 @@ demonstrate the basic workflow.
 
 ## Quickstart
 
-Follow the [spacegraphcats install instructions for conda](https://github.com/spacegraphcats/spacegraphcats/blob/master/doc/installing-spacegraphcats.md).
+Follow the [spacegraphcats install instructions for conda](https://github.com/spacegraphcats/spacegraphcats/blob/latest/doc/installing-spacegraphcats.md).
 
 Then,
 
