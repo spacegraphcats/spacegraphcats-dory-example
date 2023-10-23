@@ -9,7 +9,7 @@ demonstrate the basic workflow.
 
 ## Quickstart
 
-Follow the [spacegraphcats install instructions for conda](https://github.com/spacegraphcats/spacegraphcats/blob/latest/doc/installing-spacegraphcats.md).
+Follow the [spacegraphcats install instructions for conda](https://github.com/spacegraphcats/spacegraphcats/blob/latest/doc/00-installing-spacegraphcats.md).
 
 Then,
 
